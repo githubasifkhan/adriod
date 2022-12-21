@@ -111,7 +111,7 @@ Phiên bản hỗ trợ
     'version': '1.1.1',
 
     # any module necessary for this one to work correctly
-    'depends': ['hr_attendance', 'to_base', 'to_safe_confirm_button', 'hr_shift'],
+    'depends': ['hr_attendance', 'to_base', 'to_safe_confirm_button',],
 
     # always loaded
     'data': [
